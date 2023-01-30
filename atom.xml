@@ -6,7 +6,7 @@
   <link href="https://brickunity.github.io/atom.xml" rel="self"/>
   
   <link href="https://brickunity.github.io/"/>
-  <updated>2023-01-29T16:30:27.921Z</updated>
+  <updated>2023-01-30T05:07:09.381Z</updated>
   <id>https://brickunity.github.io/</id>
   
   <author>
@@ -17,97 +17,25 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="https://brickunity.github.io/2023/01/30/#%20RUNOOB%20Markdown%20Test/"/>
-    <id>https://brickunity.github.io/2023/01/30/#%20RUNOOB%20Markdown%20Test/</id>
-    <published>2023-01-29T16:30:27.610Z</published>
-    <updated>2023-01-29T16:30:27.921Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="RUNOOB-Markdown-Test"><a href="#RUNOOB-Markdown-Test" class="headerlink" title="RUNOOB Markdown Test"></a>RUNOOB Markdown Test</h1><h2 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World!"></a>Hello World!</h2>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;RUNOOB-Markdown-Test&quot;&gt;&lt;a href=&quot;#RUNOOB-Markdown-Test&quot; class=&quot;headerlink&quot; title=&quot;RUNOOB Markdown Test&quot;&gt;&lt;/a&gt;RUNOOB Markdown Test&lt;/h1&gt;&lt;</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Test 6</title>
-    <link href="https://brickunity.github.io/2023/01/30/Test-6/"/>
-    <id>https://brickunity.github.io/2023/01/30/Test-6/</id>
-    <published>2023-01-29T16:04:58.000Z</published>
-    <updated>2023-01-29T16:04:58.744Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>我们将走下去。</title>
     <link href="https://brickunity.github.io/2023/01/29/%E6%88%91%E4%BB%AC%E5%B0%86%E8%B5%B0%E4%B8%8B%E5%8E%BB%E3%80%82/"/>
     <id>https://brickunity.github.io/2023/01/29/%E6%88%91%E4%BB%AC%E5%B0%86%E8%B5%B0%E4%B8%8B%E5%8E%BB%E3%80%82/</id>
     <published>2023-01-29T15:46:16.000Z</published>
-    <updated>2023-01-30T01:07:41.875Z</updated>
+    <updated>2023-01-30T05:07:09.381Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="我们将走下去。"><a href="#我们将走下去。" class="headerlink" title="我们将走下去。"></a>我们将走下去。</h1><h2 id="人类的起源"><a href="#人类的起源" class="headerlink" title="人类的起源"></a>人类的起源</h2><p>你好！</p><p>很高兴认识你</p><p>我是人。</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="我们将走下去。"><a href="#我们将走下去。" class="headerlink" title="我们将走下去。"></a>我们将走下去。</h1><p>你好，欢迎你访问这里。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;我们将走下去。&quot;&gt;&lt;a href=&quot;#我们将走下去。&quot; class=&quot;headerlink&quot; title=&quot;我们将走下去。&quot;&gt;&lt;/a&gt;我们将走下去。&lt;/h1&gt;&lt;h2 id=&quot;人类的起源&quot;&gt;&lt;a href=&quot;#人类的起源&quot; class=&quot;headerlink&quot; ti</summary>
+    <summary type="html">&lt;h1 id=&quot;我们将走下去。&quot;&gt;&lt;a href=&quot;#我们将走下去。&quot; class=&quot;headerlink&quot; title=&quot;我们将走下去。&quot;&gt;&lt;/a&gt;我们将走下去。&lt;/h1&gt;&lt;p&gt;你好，欢迎你访问这里。&lt;/p&gt;
+</summary>
       
     
     
     
     
     <category term="试验" scheme="https://brickunity.github.io/tags/%E8%AF%95%E9%AA%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HelloWorld</title>
-    <link href="https://brickunity.github.io/2023/01/29/HelloWorld/"/>
-    <id>https://brickunity.github.io/2023/01/29/HelloWorld/</id>
-    <published>2023-01-29T15:15:36.000Z</published>
-    <updated>2023-01-30T01:07:41.875Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="你好"><a href="#你好" class="headerlink" title="你好"></a>你好</h1><h2 id="欢迎你访问本网站"><a href="#欢迎你访问本网站" class="headerlink" title="欢迎你访问本网站"></a>欢迎你访问本网站</h2>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;你好&quot;&gt;&lt;a href=&quot;#你好&quot; class=&quot;headerlink&quot; title=&quot;你好&quot;&gt;&lt;/a&gt;你好&lt;/h1&gt;&lt;h2 id=&quot;欢迎你访问本网站&quot;&gt;&lt;a href=&quot;#欢迎你访问本网站&quot; class=&quot;headerlink&quot; title=&quot;欢迎你访问本网站&quot;</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://brickunity.github.io/2023/01/29/hello-world/"/>
-    <id>https://brickunity.github.io/2023/01/29/hello-world/</id>
-    <published>2023-01-29T14:36:41.240Z</published>
-    <updated>2023-01-29T14:36:41.240Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
-    
-    
-    
     
   </entry>
   
